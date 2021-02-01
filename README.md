@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Nakul_Verma2312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nakul_verma23" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/nakul-verma-9b695515a/">
+<a href="www.linkedin.com/in/nakul-verma-2b25a4205/">
   <img align="left" alt="Nakul's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nakul.verma_23/">
