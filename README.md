@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **nakulverma2312@gmail.com**
-
 - ⚡ Fun fact **I think I am funny xD**
 
 <h3 align="left">Connect with me:</h3>
