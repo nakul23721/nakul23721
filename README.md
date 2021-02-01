@@ -1,7 +1,4 @@
 <h1 align="center">Hola, I'm Nakul Verma! 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul23721&label=Profile%20views&color=0e75b6&style=flat" alt="nakul23721" /> </p>
-
-<p align="left"> <a href="https://twitter.com/Nakul_Verma23" target="blank"><img src="https://img.shields.io/twitter/follow/nakul_verma23?logo=twitter&style=for-the-badge" alt="nakul_verma23" /></a> </p>
 
 - 🔭 I’m currently working on **operating system like Linux**
 
