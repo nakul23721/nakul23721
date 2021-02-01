@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nakul_verma23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nakul_verma23" height="30" width="40" /></a>
+<a href="https://twitter.com/Nakul_Verma2312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nakul_verma23" height="30" width="40" /></a>
 <a href="https://instagram.com/nakul.verma_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nakul.verma_23" height="30" width="40" /></a>
 </p>
 
