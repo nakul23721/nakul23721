@@ -1,8 +1,7 @@
 <h1 align="center">Hola, I'm Nakul Verma! 👋</h1>
 
-- 🔭 I’m currently working on **operating system like Linux**
 
-- 🌱 I’m currently learning **object oriented language Java, domain-specific SQL**
+- 🌱 I’m currently learning **object oriented language Java and Web Development**
 
 - 👯 I’m looking to collaborate with **other creators associated to web development**
 
