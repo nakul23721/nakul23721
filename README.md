@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps**
 
-- ⚡ Fun fact **I think I am funny xD**
+- ⚡ Fun fact **I think I'm funny xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
